@@ -1,0 +1,4 @@
+BP_EnemyController_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_EnemyController_C_0
+StateTree /Game/ThirdPerson/Blueprints/Enemy/ST_Enemy.ST_Enemy
+Tick
+7820

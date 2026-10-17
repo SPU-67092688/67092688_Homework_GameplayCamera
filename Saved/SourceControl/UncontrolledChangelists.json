@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/VK/DFHV7ZWYFWPZANP2M10OX7.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/VL/JIYH7096UR7B0H5O1FM20K.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/UG/772QHU4AGHZWXSLF8KPFK6.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/CG/XCFB5VT0FR3N48T70MB9QA.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/3O/RJ3F1WC7GER7NNJTIIUN4S.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/1K/ZOSW3PB5NNBQGTRIFB1MSQ.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/K8/40BD1DZYXXI6V3LBL9EHPH.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/6U/8S0HSDYU024QOXH62XKWK7.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/DD/N1RRBJ3L2OVY000PP3C7UG.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/UQ/1U3YZHMTOWP88KKWVHV6IG.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/HO/9G7XS6DMBI1E7Y4AGDBESG.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/B2/HV2ENGQAJKK24GEEOLCWSF.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/2N/2QZ9YNDXI91RRYAVKB6MM6.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/NX/D5XD30CT3JRFNFQKOEM3QH.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/7H/AO24KQ5H8YTVNTTSQPFYS4.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/MK/67ZB0RZR4IL5XX6CQIEO4D.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/3W/3IDBX78KNIV0HG7SWPJUL9.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/2Z/1NNDATV4DFHJKVZMI9U7O8.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/PB/ESQVKPIS4DZ3ZJ0MRZZHHD.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/HW/UDWY00IY8E8G6URUK9B9P1.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/JM/C5MHGN2R498BL14FN7UXQB.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/8E/T4FFKA6QMT33IVD1LVODAQ.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/V7/X6EEFKCY1UWJ4SHDOSOX8G.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/JG/YX0E65U09OKZEFI0M7BALH.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/Z3/6ANJI29VYALAPXV4FAKT3O.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/FR/ULZB0F8PMQKUHC2R6MXITR.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/61/OS53J82038Z2U1Z9HZXM5U.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/GS/YCLV9DSN4EE6ZJVTPYM7SG.uasset",
+				"C:/Users/Ake/Documents/GitHub/67092688_Homework_GameplayCamera/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/YF/J28PMCWRAJ4LGBN3O09X96.uasset",
+				"C:/Users/Ake/Desktop/HomeWork/Camera with AI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/ST/2UCE9YZA7YO4DFUSH53W4B.uasset",
+				"C:/Users/Ake/Desktop/HomeWork/Camera with AI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/NG/99LWWPZVLCD40FBI723Z4Z.uasset",
+				"C:/Users/Ake/Desktop/HomeWork/Camera with AI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/CM/0Z7OMFP5G10PSJWZAIONC6.uasset",
+				"C:/Users/Ake/Desktop/HomeWork/Camera with AI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/5E/88X8HHHQBG2W781S59CDGW.uasset",
+				"C:/Users/Ake/Desktop/HomeWork/Camera with AI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/2D/HZCAX267LBPRPNXD3D5DRP.uasset",
+				"C:/Users/Ake/Desktop/HomeWork/Camera with AI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/LW/FFBB6HZE86JZ3PR5VEFE76.uasset",
+				"C:/Users/Ake/Desktop/HomeWork/Camera with AI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/SW/LR8SLVJNWVT2RHXNUOPNSG.uasset",
+				"C:/Users/Ake/Desktop/HomeWork/Camera with AI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/UG/772QHU4AGHZWXSLF8KPFK6.uasset"
+			]
+		}
+	]
+}
